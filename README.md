@@ -1,3 +1,2 @@
-# Hey people 👋
-# I'm Farooq
+# Hi there, I'm Farouk 👋
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
